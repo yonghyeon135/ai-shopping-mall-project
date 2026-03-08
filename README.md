@@ -3,6 +3,10 @@
 ## Description
 Full-stack shopping mall web application with an AI-based recommendation system.
 
+## Project Info
+Period: 2025.09 – 2025.12  
+Type: Team Project
+
 ## Tech Stack
 Frontend
 - React
